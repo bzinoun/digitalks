@@ -1049,7 +1049,7 @@ main .main-wrapper.demo-06 {
 }
 
 main .main-wrapper.demo-06 .hero-area {
-  margin-bottom: 100px;
+  margin-bottom: 25px;
 }
 
 main .main-wrapper.demo-06 .hero-area h1 {
@@ -1364,6 +1364,7 @@ main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-info p {
 main .footer {
   width: 100%;
   margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 main .footer p {
